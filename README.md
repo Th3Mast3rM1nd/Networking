@@ -1,5 +1,4 @@
 # Networking
-Basic of Networking
 
 ![network-clipart-network-icon-7](https://user-images.githubusercontent.com/92652606/139110972-59009c0b-d7c2-4dbc-ac68-fb98358242ba.png)
 
