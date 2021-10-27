@@ -12,38 +12,24 @@ Computer networks enable communication for every business, entertainment, and re
 
 Source : [IBM](https://www.ibm.com/cloud/learn/networking-a-complete-guide)
 
-1.[Network Types](https://github.com/Th3Mast3rM1nd/Networking/blob/main/Network%20Types.md)
+Networking Basic Topics
+:
 
-2.[Packets](https://github.com/Th3Mast3rM1nd/Networking/blob/main/Packets.md)
-
-3.[OSI Model](https://github.com/Th3Mast3rM1nd/Networking/blob/main/OSI_Model.md)
-
-4.[TCP/IP Model](https://github.com/Th3Mast3rM1nd/Networking/blob/main/TCP_IP_Model.md)
-
-5.[Type Of Communication](https://github.com/Th3Mast3rM1nd/Networking/blob/main/Type_of_Communication.md)
-
-6.[IPV4](https://github.com/Th3Mast3rM1nd/Networking/blob/main/IPv4.md)
-
-7.[IPV6](https://github.com/Th3Mast3rM1nd/Networking/blob/main/IPv6.md)
-
-8.[MAC_Adresses](https://github.com/Th3Mast3rM1nd/Networking/blob/main/MAC_Adresses.md)
-
-9.[Subnetting](https://github.com/Th3Mast3rM1nd/Networking/blob/main/Subnetting.md)
-
-10.[DNS](https://github.com/Th3Mast3rM1nd/Networking/blob/main/DNS.md)
-
-11.[ARP](https://github.com/Th3Mast3rM1nd/Networking/blob/main/ARP.md)
-
-12.[ICMP & IGMP](https://github.com/Th3Mast3rM1nd/Networking/blob/main/ICMP_IGMP.md)
-
-13.[TCP](https://github.com/Th3Mast3rM1nd/Networking/blob/main/TCP.md)
-
-14.[UDP](https://github.com/Th3Mast3rM1nd/Networking/blob/main/UDP.md)
-
-15.[DHCP](https://github.com/Th3Mast3rM1nd/Networking/blob/main/DHCP.md)
-
-16.[Common Ports & protocols](https://github.com/Th3Mast3rM1nd/Networking/blob/main/Common_Ports_and_Protocols.md)
-
-17.[Tcpdump](https://github.com/Th3Mast3rM1nd/Networking/blob/main/Tcpdump.md)
-
-18.[Networking Command line WIN-UNIX](https://github.com/Th3Mast3rM1nd/Networking/blob/main/Networking_Command_line_WIN-UNIX)
+1. [Network Types](https://github.com/Th3Mast3rM1nd/Networking/blob/main/Network%20Types.md)
+2. [Packets](https://github.com/Th3Mast3rM1nd/Networking/blob/main/Packets.md)
+3. [OSI Model](https://github.com/Th3Mast3rM1nd/Networking/blob/main/OSI_Model.md)
+4. [TCP/IP Model](https://github.com/Th3Mast3rM1nd/Networking/blob/main/TCP_IP_Model.md)
+5. [Type Of Communication](https://github.com/Th3Mast3rM1nd/Networking/blob/main/Type_of_Communication.md)
+6. [IPV4](https://github.com/Th3Mast3rM1nd/Networking/blob/main/IPv4.md)
+7. [IPV6](https://github.com/Th3Mast3rM1nd/Networking/blob/main/IPv6.md)
+8. [MAC_Adresses](https://github.com/Th3Mast3rM1nd/Networking/blob/main/MAC_Adresses.md)
+9. [Subnetting](https://github.com/Th3Mast3rM1nd/Networking/blob/main/Subnetting.md)
+10. [DNS](https://github.com/Th3Mast3rM1nd/Networking/blob/main/DNS.md)
+11. [ARP](https://github.com/Th3Mast3rM1nd/Networking/blob/main/ARP.md)
+12. [ICMP & IGMP](https://github.com/Th3Mast3rM1nd/Networking/blob/main/ICMP_IGMP.md)
+13. [TCP](https://github.com/Th3Mast3rM1nd/Networking/blob/main/TCP.md)
+14. [UDP](https://github.com/Th3Mast3rM1nd/Networking/blob/main/UDP.md)
+15. [DHCP](https://github.com/Th3Mast3rM1nd/Networking/blob/main/DHCP.md)
+16. [Common Ports & protocols](https://github.com/Th3Mast3rM1nd/Networking/blob/main/Common_Ports_and_Protocols.md)
+17. [Tcpdump](https://github.com/Th3Mast3rM1nd/Networking/blob/main/Tcpdump.md)
+18. [Networking Command line WIN-UNIX](https://github.com/Th3Mast3rM1nd/Networking/blob/main/Networking_Command_line_WIN-UNIX)
