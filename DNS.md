@@ -12,4 +12,24 @@
 
 ```in Linux /etc/resolv.conf file Provide details of Which DNS servers it should use for DNS lookup ```
 
+<img width="612" alt="Screen Shot 2021-10-28 at 00 38 22" src="https://user-images.githubusercontent.com/92652606/139157499-53bc3bfc-1257-4586-b6d1-928244df9c85.png">
+
+[ For More Info About DNS ](https://code.tutsplus.com/tutorials/an-introduction-to-learning-and-using-dns-records--cms-24704)
+
+
+
+![external-content duckduckgo com(2)](https://user-images.githubusercontent.com/92652606/139157713-b178a9f3-51d5-40b2-837d-10c1427413d6.png)
+
+<h2>Some Level Top domains:</h2>
+
+| Level Top Domains | Description |
+|-------------------|------------|
+|***arpa*** | Used for DNS mapping|
+|***com*** | Commercial |
+|***edu*** | Educational |
+|***Gov*** | Government |
+|***Mil*** | Military |
+|***net*** | Network support groups or ISPs |
+|***org*** | Other organisations (normally charities)|
+|***int*** | International Organisations |
 
