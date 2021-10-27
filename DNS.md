@@ -40,5 +40,15 @@ Let`s Break Down ```www.sub.domain.com```
 * ***Domain*** : <h>Domain</h>
 * ***com*** : <h> Top Level Domain</h>
         
+<h2> Records Types </h2> 
+
+| Type | Examples | Meaning |
+|------|----------|---------|
+| ***A*** | 10.23.32.11 | Ipv4 |
+| ***AAA*** | 2a02:120b:7fa:290:ac5c:b473:36c4:2d01 | IPV6 |
+| ***CNAME*** | origin.example.com | alias for another name |
+| ***MX*** | mail.example.com | mail exchange handler |
+| ***NS*** | ns1.webhost.com | authoritative nameserver |
+| ***TXT*** | Some Text | Some Human readable text |
 
 
