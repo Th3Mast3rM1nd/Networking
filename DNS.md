@@ -33,3 +33,12 @@
 |***org*** | Other organisations (normally charities)|
 |***int*** | International Organisations |
 
+Let`s Break Down ```www.sub.domain.com```
+
+* ***www*** : <h>Host</h>
+* ***sub*** : <h>Sub Domain </h>
+* ***Domain*** : <h>Domain</h>
+* ***com*** : <h> Top Level Domain</h>
+        
+
+
