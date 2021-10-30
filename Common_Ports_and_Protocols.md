@@ -2,7 +2,7 @@
 
 <h>Ports are used to identify a single network process on a machine , if you want to to identify a process on the internet you need to know ip:port ( 192.168.1.1:80).</h>
 
-* ***well-known ports 0-1023*** :
+* ***Some well-known ports 0-1023*** :
 
 | TCP | UDP |
 |-----|-----|
@@ -22,3 +22,5 @@
 | Netbios 137 138 139 | | 
 
 * Check /ect/services on Linux for more Ports : ``` cat /etc/services ```
+
+<img width="442" alt="Screen Shot 2021-10-30 at 11 23 16" src="https://user-images.githubusercontent.com/92652606/139527547-796491c6-c34f-485d-bd17-884fe8c85834.png">
