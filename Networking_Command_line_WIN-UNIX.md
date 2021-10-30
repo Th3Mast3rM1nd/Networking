@@ -1,7 +1,1 @@
-#Networking Command line
-
-* to view your computer Ip addresse :
-
-```ifconfig```
-```ip```
-``` ipconfig ``` : On windows Machines.
+#Networking Command line WIN-UNIX
